@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "composite": true,
+        "noImplicitAny": true,
+        "esModuleInterop": true,
+        "target": "ES2015",
+        "module": "ES2020",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "rootDir": "./src",
+        "outDir": "./dist",
+        "strict": true,
+        "skipDefaultLibCheck": true,
+        "baseUrl": "./src",
+        "declaration": true,
+        "declarationDir": "dist/@types",
+        "jsx": "react"
+    },
+    "include": ["src"]
+}

@@ -1,0 +1,5 @@
+{
+    "jest.jestCommandLine": "jest",
+    "jest.rootPath": "./",
+    "terminal.integrated.fontFamily": "JetBrains Mono"
+}
